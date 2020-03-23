@@ -1,1 +1,20 @@
 
+{
+  "server": {
+    "status": "alive",
+    "baseUrl": "http://ec2-3-18-215-16.us-east-2.compute.amazonaws.com:3001"
+  },
+  "latestApp": {
+    "version": "1.0.0",
+    "urlDownloadWin": null,
+    "urlDownloadMac": null,
+    "urlDownloadAndroid": null,
+  },
+  "popupMessage": {
+      "title": null,
+      "message": null,
+      "pictureUrl": null,
+      "actionUrl": null,
+      "actionLabel": null
+  }
+}
