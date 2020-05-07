@@ -1,6 +1,6 @@
 {
   "server": {
-    "status": "maintenance",
+    "status": "popup",
     "baseUrl": "http://ec2-3-18-215-16.us-east-2.compute.amazonaws.com:3002"
   },
   "latestApp": {
@@ -10,10 +10,10 @@
     "urlDownloadMac": null
   },
   "popupMessage": {
-      "title": null,
-      "message": null,
+      "title": "tes",
+      "message": "ok",
       "pictureUrl": null,
-      "actionUrl": null,
-      "actionLabel": null
+      "actionUrl": "null",
+      "actionLabel": "https://google.com"
   }
 }
