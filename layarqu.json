@@ -13,7 +13,7 @@
       "title": "tes",
       "message": "ok",
       "pictureUrl": null,
-      "actionUrl": "null",
-      "actionLabel": "https://google.com"
+      "actionLabel": "null",
+      "actionUrl": "https://google.com"
   }
 }
