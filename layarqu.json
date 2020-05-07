@@ -10,10 +10,10 @@
     "urlDownloadMac": null
   },
   "popupMessage": {
-      "title": "tes",
-      "message": "ok",
+      "title": "Title",
+      "message": "ini cuma test popup",
       "pictureUrl": null,
-      "actionLabel": "null",
+      "actionLabel": "buka",
       "actionUrl": "https://google.com"
   }
 }
