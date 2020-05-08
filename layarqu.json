@@ -1,6 +1,6 @@
 {
   "server": {
-    "status": "maintenance",
+    "status": "alive",
     "baseUrl": "http://ec2-3-18-215-16.us-east-2.compute.amazonaws.com:3002"
   },
   "latestApp": {
