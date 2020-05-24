@@ -1,7 +1,7 @@
 {
   "server": {
     "status": "alive",
-    "baseUrl": "http://ec2-3-18-215-16.us-east-2.compute.amazonaws.com:6969"
+    "baseUrl": "http://ec2-18-224-94-8.us-east-2.compute.amazonaws.com:6969"
   },
   "latestApp": {
     "version": "1.0.0",
