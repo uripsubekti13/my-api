@@ -1,0 +1,19 @@
+{
+  "server": {
+    "status": "alive",
+    "baseUrl": "http://ongkir.layarqu.xyz"
+  },
+  "latestApp": {
+    "version": "2.0.0",
+    "urlDownloadApk": null,
+    "urlDownloadWin": null,
+    "urlDownloadMac": null
+  },
+  "popupMessage": {
+      "title": "Title",
+      "message": "ini cuma test popup",
+      "pictureUrl": null,
+      "actionLabel": "buka",
+      "actionUrl": "https://google.com"
+  }
+}
