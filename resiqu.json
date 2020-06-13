@@ -1,7 +1,7 @@
 {
   "server": {
     "status": "alive",
-    "baseUrl": "http://ongkir.layarqu.xyz"
+    "baseUrl": "https://ongkir.layarqu.xyz"
   },
   "latestApp": {
     "version": "2.0.0",
