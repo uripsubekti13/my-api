@@ -1,7 +1,7 @@
 {
   "server": {
     "status": "alive",
-    "baseUrl": "https://ongkir.layarqu.xyz"
+    "baseUrl": "http://ec2-18-224-94-8.us-east-2.compute.amazonaws.com:9898"
   },
   "latestApp": {
     "version": "2.0.0",
